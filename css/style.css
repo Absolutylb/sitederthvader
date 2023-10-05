@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+.box1{
+    height: 400px;
+    border: 1px solid black;
+    background-image: url("./img/capa.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.box2{
+    height: 60px;
+    background-color: rgba(175, 171, 171, 0.726);
+ 
+}
+.box3{
+    color: white;
+
+}
+.p{
+    color: white;
+}
+#titu{
+    color: white;
+}
+.rr{
+    color: white;
+    word-spacing: 30px;
+}
+.oo{
+    color: white;
+}
